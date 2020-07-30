@@ -14,6 +14,7 @@
 		9F7E608B24D3252A0053A038 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F7E608A24D3252A0053A038 /* Assets.xcassets */; };
 		9F7E608E24D3252A0053A038 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F7E608C24D3252A0053A038 /* LaunchScreen.storyboard */; };
 		9F7E609624D3295E0053A038 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F7E609524D3295E0053A038 /* SwiftyJSON.swift */; };
+		9F7E609824D332750053A038 /* ArticlesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F7E609724D332750053A038 /* ArticlesTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		9F7E608D24D3252A0053A038 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9F7E608F24D3252A0053A038 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9F7E609524D3295E0053A038 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		9F7E609724D332750053A038 /* ArticlesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticlesTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				9F7E608124D325250053A038 /* AppDelegate.swift */,
 				9F7E608324D325250053A038 /* SceneDelegate.swift */,
 				9F7E608524D325250053A038 /* SourcesViewController.swift */,
+				9F7E609724D332750053A038 /* ArticlesTableViewController.swift */,
 				9F7E608724D325250053A038 /* Main.storyboard */,
 				9F7E608A24D3252A0053A038 /* Assets.xcassets */,
 				9F7E608C24D3252A0053A038 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F7E609824D332750053A038 /* ArticlesTableViewController.swift in Sources */,
 				9F7E608624D325250053A038 /* SourcesViewController.swift in Sources */,
 				9F7E608224D325250053A038 /* AppDelegate.swift in Sources */,
 				9F7E608424D325250053A038 /* SceneDelegate.swift in Sources */,
